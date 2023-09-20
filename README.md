@@ -13,6 +13,9 @@
 </ol>
 
 ## Why i created an account Github ?
+<div style='width=100%;display=grid;grid-template-columns=2;'>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Hououin&show_icons=true&theme=radical&hide_rank=true">
+</div>
 <!--
 **Pablo-Hououin/Pablo-Hououin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
