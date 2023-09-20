@@ -1,5 +1,18 @@
-### Hi there 👋
+## Hello Everyone 👋
 
+<p>My name is Pablo, <strong>Digital Project Manager</strong> in Paris, France. My purpose in my current job is mainly to <strong>manage the lauch</strong> of websites and applications web 2.0, my work is to do : </p>
+<ol>
+<li>🔭 Benchmark existing solutions</li>
+<li>👂 Understand and to be in line with his needs of my clients, his budget and his strategy</li>
+<li>🏋️ Create the team (designer, developer, social media expert, writer,...)</li>
+<li>📝 Writing specifications</li>
+<li>⏱️ Define a backlog and a retroplanning</li>
+<li>👨‍🔬 Follow the development, find solutions or alternatives,... </li>
+<li>💻 Testing Phase</li>
+<li>🧠 Thinking to the next evolutions</li>
+</ol>
+
+## Why i created an account Github ?
 <!--
 **Pablo-Hououin/Pablo-Hououin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
