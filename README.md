@@ -15,10 +15,20 @@
 </div>
 
 ## Why i created an account Github ?
+
+<p>I created an account Github because i would like to understand better the working of developer and try to understand the technology behind the websites or applications softwares</p>
 <div style='width=100%;display=grid;grid-template-columns=2;'>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Hououin&show_icons=true&theme=radical&hide_rank=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Hououin&show_icons=true&theme=radical&hide_rank=true">
 </div>
+
+## My target
+
+<p>My target is to become <strong>a full stack developer</strong> :</p>
+<ul>
+  <li>In front Office :</li>
+  <li>In Back Office :</li>
+</ul>
 <!--
 **Pablo-Hououin/Pablo-Hououin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
