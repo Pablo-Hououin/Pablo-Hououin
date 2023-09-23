@@ -19,7 +19,7 @@
 <p>I created an account Github because i would like to understand better the working of developer and try to understand the technology behind the websites or applications softwares</p>
 <div style='width=100%;display=grid;grid-template-columns=2;'>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Hououin&show_icons=true&theme=radical&hide_rank=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Hououin&layout=donut&size_weight=0.5&count_weight=0.5&theme=radical">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Hououin&layout=donut-vertical&size_weight=0.5&count_weight=0.5&theme=radical">
 </div>
 
 ## My goal
